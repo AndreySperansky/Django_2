@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IGRqYW5nbzU=?=
+From: webmaster@localhost
+To: dj5@dj.local
+Date: Tue, 25 Aug 2020 21:30:01 -0000
+Message-ID: <159839100176.7172.16209543889116930232@ASPER>
+
+Для подтверждения учетной записи django5 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/dj5@dj.local/69115c6892f46cf029519cf51760cbcae912cd8d/
+-------------------------------------------------------------------------------
