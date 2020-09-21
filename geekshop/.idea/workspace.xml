@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41f3b2a5-2eaa-43f5-97ac-58f9806a6d8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/basketapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/basketapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basketapp/templates/basketapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/basketapp/templates/basketapp/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basketapp/templates/basketapp/basket.html" beforeDir="false" afterPath="$PROJECT_DIR$/basketapp/templates/basketapp/basket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainapp/templates/mainapp/includes/inc_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainapp/templates/mainapp/includes/inc_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordersapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordersapp/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fe42tQVGajojmRH89sihzB7mUi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mainapp/management/commands" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\mainapp\management\commands" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\adminapp\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\authapp" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\adminapp\templates\adminapp" />
+      <recent name="C:\Users\Andrey_User\PycharmProjects\geekshop\basketapp\templates\basketapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="geekshop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/authapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/authapp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41f3b2a5-2eaa-43f5-97ac-58f9806a6d8f" name="Default Changelist" comment="" />
+      <created>1596565020528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596565020528</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Рабочая версия по итогам 2 урока django2">
+      <created>1598646044588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598646044588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавлено выпадающее меню пользователя для работы с заказами">
+      <created>1598647000610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598647000610</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создано приложение ordersapp">
+      <created>1598647863482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598647863482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Полностью заменено приложение ordersapp">
+      <created>1598648331551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598648331551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Очищена папка migrations">
+      <created>1598648923638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598648923638</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Сделаны миграции для приложения ordersapp">
+      <created>1598649627498</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598649627498</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Рабочая версия по итогам 2 урока django2" />
+    <MESSAGE value="Добавлено выпадающее меню пользователя для работы с заказами" />
+    <MESSAGE value="Создано приложение ordersapp" />
+    <MESSAGE value="Полностью заменено приложение ordersapp" />
+    <MESSAGE value="Очищена папка migrations" />
+    <MESSAGE value="Сделаны миграции для приложения ordersapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделаны миграции для приложения ordersapp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="0" width="761" height="860" key="#HTML" timestamp="1596580611456">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="597" y="0" width="761" height="860" key="#HTML/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1596580611456" />
+    <state x="426" y="107" key="#Inspections" timestamp="1596567772175">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="426" y="107" key="#Inspections/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1596567772175" />
+    <state x="254" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597008549617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1597008549617" />
+    <state x="580" y="133" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1596835623307">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="133" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1596835623307" />
+    <state x="398" y="0" width="1124" height="860" key="CommitChangelistDialog2" timestamp="1598649626077">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="398" y="0" width="1124" height="860" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598649626077" />
+    <state x="100" y="122" width="1400" height="660" key="DiffContextDialog" timestamp="1598647383747">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="122" width="1400" height="660" key="DiffContextDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598647383747" />
+    <state x="625" y="169" key="FileChooserDialogImpl" timestamp="1598473411863">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="625" y="169" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598473411863" />
+    <state width="1578" height="257" key="GridCell.Tab.0.bottom" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.0.center" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.0.left" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.0.right" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.1.bottom" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.1.center" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.1.left" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state width="1578" height="257" key="GridCell.Tab.1.right" timestamp="1598483345959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="257" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1598483345959" />
+    <state x="301" y="60" key="SettingsEditor" timestamp="1597008619195">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="60" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1597008619195" />
+    <state x="347" y="39" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1597008604360">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="347" y="39" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1597008604360" />
+    <state x="506" y="149" width="588" height="570" key="find.popup" timestamp="1597435063049">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="149" width="588" height="570" key="find.popup/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1597435063049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

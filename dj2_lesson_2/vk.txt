@@ -1,0 +1,10 @@
+ID приложения	7578103
+Защищённый ключ	
+ZOIaHTvPs9ZBKwMThqbZ
+
+Сервисный ключ доступа	
+8318f8938318f8938318f89350836b5964883188318f893dc5d77711aab7d12ef75a118
+
+
+{"error":"invalid_request","error_description":"redirect_uri has wrong domain, check application settings"}
+
